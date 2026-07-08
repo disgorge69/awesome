@@ -266,6 +266,9 @@ bootstrapped rolling Linux, based on IX package manager, clang and musl
 https://nyght.neocities.org/Projects/SFS/suckless-from-scratch): A true
 suckless, linux based system from scratch, inspired by the ideas and concept
 behind the 'Linux From Scratch' project
+- [Supplemental Linux From Scratch (SLFS)](https://linuxfromscratch.org/slfs/):
+A project that supplements an LFS, MLFS, BLFS, and/or GLFS x86_64 system by
+providing packages not found in the other LFS books
 - [T2](https://t2sde.org/): A low-code, ultra portable package manager that
 allows the fully automated, reproducable, cross compilation of custom Operating
 Systems using up-to-date packages
