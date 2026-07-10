@@ -238,6 +238,8 @@ distribution and direct descendant of Mandriva Linux
 devices
 - [OS/1337](https://os1337.com/): A CLI-oriented minimal toybox/Linux + musl
 distribtion
+- [Peropesis](https://peropesis.org/): A minimalist, command-line-based Linux
+operating system
 - [Pickle Linux](https://github.com/Stilic/pickle-linux): An immutable
 Musl/Toybox/Dinit/Linux distribution
 - [Pizlix (Memory Safe Linux From Scratch)](https://fil-c.org/pizlix): Linux
