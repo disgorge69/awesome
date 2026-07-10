@@ -244,6 +244,8 @@ operating system
 Musl/Toybox/Dinit/Linux distribution
 - [Pizlix (Memory Safe Linux From Scratch)](https://fil-c.org/pizlix): Linux
 From Scratch 12.2 with some added components compiled with Fil-C
+- [Plamo Linux](https://plamolinux.org/): A simple Linux distribution based on
+Slackware and LFS
 - [PortaLinux](https://cinnamonwolfy.neocities.org/portalinux/): A collection
 of utilities, libraries and build scripts created with the purpose of making
 embedded Linux distributions with GUI and TUI capabilities that take up at most
