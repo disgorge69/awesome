@@ -262,6 +262,8 @@ distribution that uses the runit init system and the Openbox window manager
 - [sixos](https://codeberg.org/amjoseph/sixos): A NixOS without systemd
 - [solyste](https://ywstd.fr/solyste/): [s]illy, [o]dd and [l]ightweight
 [y]pnose's [st]atic [e]nvironment
+- [StageX](https://stagex.tools/): A minimal, fully bootstrapped, deterministic,
+multi-party-signed Linux distribution for verifiable infrastructure
 - [stal/IX](https://stal-ix.github.io/): A statically linked, source based,
 bootstrapped rolling Linux, based on IX package manager, clang and musl
 - [Suckless From Scratch (SFS)](
