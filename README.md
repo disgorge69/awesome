@@ -246,6 +246,8 @@ From Scratch 12.2 with some added components compiled with Fil-C
 of utilities, libraries and build scripts created with the purpose of making
 embedded Linux distributions with GUI and TUI capabilities that take up at most
 10MiB of storage and 64MiB of RAM
+- [PorteuX](https://github.com/porteux/porteux): A high-performance, modular,
+and minimalist Linux distro
 - [postmarketOS](https://postmarketos.org/): A touch-optimized, pre-configured
 Alpine Linux with own packages, that can be installed on smartphones
 - [Redrose Linux](https://redroselinux.org/): An independent x86_64 systemd-free
